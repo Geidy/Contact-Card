@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Contact-Card/static/css/main.5dd250bc.chunk.css",
+    "main.js": "/Contact-Card/static/js/main.defef04a.chunk.js",
+    "main.js.map": "/Contact-Card/static/js/main.defef04a.chunk.js.map",
+    "runtime~main.js": "/Contact-Card/static/js/runtime~main.c50565d9.js",
+    "runtime~main.js.map": "/Contact-Card/static/js/runtime~main.c50565d9.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/Contact-Card/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/Contact-Card/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/Contact-Card/index.html",
+    "precache-manifest.2ed810b76415cde06d1db8678004d11d.js": "/Contact-Card/precache-manifest.2ed810b76415cde06d1db8678004d11d.js",
+    "service-worker.js": "/Contact-Card/service-worker.js",
+    "static/css/main.5dd250bc.chunk.css.map": "/Contact-Card/static/css/main.5dd250bc.chunk.css.map",
+    "static/media/App.css": "/Contact-Card/static/media/santorini2.ab6407f2.jpg"
+  }
+}
