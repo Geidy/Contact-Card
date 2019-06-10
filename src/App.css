@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+  
+}
+.contactos{
+  display: grid;
+  grid-gap: 5px;
+  grid:50% auto auto;
+  background-color: rgb(236, 131, 228);
+  grid-auto-columns: 40px;
+  justify-content: center;
+  
+}
+
+.contactos > div{
+  background-color: rgb(223, 130, 218);
+  justify-items: center;
+  padding: 5px 0;
+  font-size: 12px;
+}
+/*Find out about grids */
+
+.App{
+  display: grid;
+  grid-gap: 10px;
+  background-color: rgb(107, 79, 235);
+  padding: 15px;
+}
+.jumbotron{
+  background-image: url(./santorini2.jpg);
+  background-position: center;
+}
+.container{
+  justify-content: center;
+}
+
+
+
+
+
+
